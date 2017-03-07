@@ -2,9 +2,10 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>PageB</title>
+	<title>Member Page</title>
 </head>
 <body>
-	<h1>PageB</h1>
+	<h1>Member Page</h1>
+	<hr>
 </body>
 </html>

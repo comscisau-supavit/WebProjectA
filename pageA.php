@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title></title>
+	<title>pageA</title>
 </head>
 <body>
-	
+	<h1>PageA</h1>
 </body>
 </html>
